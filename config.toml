@@ -32,7 +32,7 @@ arch = "both"
 version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
 uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
-patches-version = "dev"Add commentMore actions
+patches-version = "dev"
 cli-version = "dev"
 [Spotify]
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
